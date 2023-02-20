@@ -1,6 +1,6 @@
 # NFT Classification Model
 
-This project uses machine learning with Python and the sklearn library to classify NFTs based on their attributes.
+This project uses machine learning with Python and the sklearn library to classify NFTs based on their image features.
 
 ## Installation
 
